@@ -1,3 +1,5 @@
+Exploratory data plotting project following the below instruction.
+
 ## Introduction
 
 This assignment uses data from
